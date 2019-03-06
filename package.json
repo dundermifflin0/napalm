@@ -301,7 +301,7 @@
     "path-exists": "2.1.0",
     "big.js": "3.2.0",
     "caller-path": "0.1.0",
-    "jquery": "1.12.4",
+    "jquery": "2.2.2",
     "is-property": "1.0.2",
     "has-cors": "1.1.0",
     "raw-body": "2.3.3",
