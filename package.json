@@ -454,7 +454,7 @@
     "hash-base": "3.0.4",
     "block-stream": "0.0.9",
     "clone-stats": "0.0.1",
-    "acorn-dynamic-import": "3.0.0",
+    "acorn-dynamic-import": "4.0.0",
     "fastparse": "1.1.1",
     "unpipe": "1.0.0",
     "mime": "1.4.1",
