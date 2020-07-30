@@ -28,7 +28,7 @@
     "is-date-object": "1.0.1",
     "send": "0.16.2",
     "camelcase-keys": "2.1.0",
-    "elliptic": "6.4.1",
+    "elliptic": "6.5.3",
     "utils-merge": "1.0.1",
     "loud-rejection": "1.6.0",
     "json-schema-traverse": "0.4.1",
