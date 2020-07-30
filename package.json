@@ -19,7 +19,7 @@
     "p-finally": "1.0.0",
     "ajv": "4.11.8",
     "math-random": "1.0.1",
-    "dot-prop": "4.2.0",
+    "dot-prop": "5.1.1",
     "babel-helpers": "6.24.1",
     "es6-weak-map": "2.0.2",
     "lodash.isarguments": "3.1.0",
