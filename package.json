@@ -464,7 +464,7 @@
     "path-is-absolute": "1.0.1",
     "source-map-resolve": "0.5.2",
     "which-module": "1.0.0",
-    "is-my-json-valid": "2.19.0",
+    "is-my-json-valid": "2.20.3",
     "content-disposition": "0.5.2",
     "next-tick": "1.0.0",
     "assert": "1.4.1",
