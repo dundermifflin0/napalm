@@ -159,7 +159,7 @@
     "websocket-driver": "0.7.0",
     "dashdash": "1.14.1",
     "levn": "0.3.0",
-    "serialize-javascript": "1.5.0",
+    "serialize-javascript": "3.1.0",
     "pkg-dir": "1.0.0",
     "decamelize": "1.2.0",
     "pinkie-promise": "2.0.1",
