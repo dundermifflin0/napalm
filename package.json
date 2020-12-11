@@ -657,7 +657,7 @@
     "amdefine": "1.0.1",
     "raw-loader": "0.5.1",
     "glob-base": "0.3.0",
-    "ini": "1.3.5",
+    "ini": "1.3.6",
     "mime-types": "2.1.21",
     "iferr": "0.1.5",
     "sax": "1.2.4",
