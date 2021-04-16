@@ -653,7 +653,7 @@
     "sass-graph": "2.2.4",
     "postcss-selector-parser": "2.2.3",
     "es6-iterator": "2.0.3",
-    "ssri": "5.3.0",
+    "ssri": "6.0.2",
     "amdefine": "1.0.1",
     "raw-loader": "0.5.1",
     "glob-base": "0.3.0",
