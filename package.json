@@ -505,7 +505,7 @@
     "regex-not": "1.0.2",
     "events": "1.1.1",
     "es-abstract": "1.12.0",
-    "sockjs": "0.3.19",
+    "sockjs": "0.3.20",
     "browserify-cipher": "1.0.1",
     "mkdirp": "0.5.1",
     "babel-core": "6.26.3",
