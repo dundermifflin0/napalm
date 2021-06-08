@@ -518,7 +518,7 @@
     "options": "0.0.6",
     "cache-base": "1.0.1",
     "create-hmac": "1.1.7",
-    "glob-parent": "2.0.0",
+    "glob-parent": "5.1.2",
     "is-windows": "1.0.2",
     "duplexer3": "0.1.4",
     "strip-indent": "1.0.1",
