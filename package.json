@@ -269,7 +269,7 @@
     "pascalcase": "0.1.1",
     "imurmurhash": "0.1.4",
     "multicast-dns": "6.2.3",
-    "trim-newlines": "1.0.0",
+    "trim-newlines": "3.0.1",
     "filename-regex": "2.0.1",
     "string-width": "1.0.2",
     "performance-now": "2.1.0",
