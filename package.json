@@ -120,7 +120,7 @@
     "stringstream": "0.0.6",
     "fast-levenshtein": "2.0.6",
     "ipaddr.js": "1.8.0",
-    "update-notifier": "2.5.0",
+    "update-notifier": "4.0.0",
     "setprototypeof": "1.0.3",
     "spdx-expression-parse": "3.0.0",
     "bcrypt-pbkdf": "1.0.2",
