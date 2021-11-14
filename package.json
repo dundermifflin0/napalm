@@ -62,7 +62,7 @@
     "wrap-ansi": "2.1.0",
     "set-blocking": "2.0.0",
     "invert-kv": "1.0.0",
-    "json-schema": "0.2.3",
+    "json-schema": "0.4.0",
     "negotiator": "0.6.1",
     "webpack-log": "2.0.0",
     "date-now": "0.1.4",
