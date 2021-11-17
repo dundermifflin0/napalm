@@ -547,7 +547,7 @@
     "import-cwd": "2.1.0",
     "psl": "1.1.29",
     "collection-visit": "1.0.0",
-    "jsprim": "1.4.1",
+    "jsprim": "2.0.2",
     "ansi-html": "0.0.7",
     "get-stream": "3.0.0",
     "assert-plus": "0.2.0",
