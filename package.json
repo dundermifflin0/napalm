@@ -548,7 +548,7 @@
     "psl": "1.1.29",
     "collection-visit": "1.0.0",
     "jsprim": "1.4.1",
-    "ansi-html": "0.0.7",
+    "ansi-html": "0.0.9",
     "get-stream": "3.0.0",
     "assert-plus": "0.2.0",
     "svgo": "0.7.2",
