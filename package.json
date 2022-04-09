@@ -509,7 +509,7 @@
     "browserify-cipher": "1.0.1",
     "mkdirp": "0.5.1",
     "babel-core": "6.26.3",
-    "moment": "2.22.2",
+    "moment": "2.29.2",
     "js-yaml": "3.12.0",
     "uglify-js": "2.8.29",
     "arr-flatten": "1.1.0",
