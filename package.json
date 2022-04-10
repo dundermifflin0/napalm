@@ -450,7 +450,7 @@
     "diff": "3.5.0",
     "verror": "1.10.0",
     "aws4": "1.8.0",
-    "minimist": "0.0.10",
+    "minimist": "1.2.6",
     "hash-base": "3.0.4",
     "block-stream": "0.0.9",
     "clone-stats": "0.0.1",
