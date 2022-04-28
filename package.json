@@ -567,7 +567,7 @@
     "align-text": "0.1.4",
     "require-directory": "2.1.1",
     "global-modules": "1.0.0",
-    "async": "1.5.2",
+    "async": "2.6.4",
     "is-fullwidth-code-point": "1.0.0",
     "extsprintf": "1.3.0",
     "os-homedir": "1.0.2",
