@@ -492,7 +492,7 @@
     "to-fast-properties": "1.0.3",
     "ip": "1.1.5",
     "is-wsl": "1.1.0",
-    "shell-quote": "1.6.1",
+    "shell-quote": "1.7.3",
     "path-key": "2.0.1",
     "normalize-range": "0.1.2",
     "is-stream": "1.1.0",
