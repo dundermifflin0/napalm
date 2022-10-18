@@ -232,7 +232,7 @@
     "object-copy": "0.1.0",
     "serve-static": "1.13.2",
     "lodash._isiterateecall": "3.0.9",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "os-locale": "1.4.0",
     "natural-compare": "1.4.0",
     "get-value": "2.0.6",
