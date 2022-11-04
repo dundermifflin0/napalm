@@ -219,7 +219,7 @@
     "is-number": "2.1.0",
     "lcid": "1.0.0",
     "debug": "2.6.9",
-    "loader-utils": "1.1.0",
+    "loader-utils": "2.0.3",
     "repeating": "2.0.1",
     "esrecurse": "4.2.1",
     "isomorphic-fetch": "2.2.1",
