@@ -386,7 +386,7 @@
     "parse-glob": "3.0.4",
     "end-of-stream": "1.4.1",
     "di": "0.0.1",
-    "express": "4.16.4",
+    "express": "4.19.2",
     "core-js": "1.2.7",
     "path-dirname": "1.0.2",
     "range-parser": "1.2.0",
