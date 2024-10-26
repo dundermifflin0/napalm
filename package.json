@@ -144,7 +144,7 @@
     "scss-tokenizer": "0.2.3",
     "spdx-correct": "3.0.0",
     "chokidar": "1.7.0",
-    "crypto-browserify": "3.12.0",
+    "crypto-browserify": "3.12.1",
     "tweetnacl": "0.14.5",
     "cssnano": "3.10.0",
     "mixin-object": "2.0.1",
