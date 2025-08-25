@@ -32,7 +32,7 @@
     "utils-merge": "1.0.1",
     "loud-rejection": "1.6.0",
     "json-schema-traverse": "0.4.1",
-    "cipher-base": "1.0.4",
+    "cipher-base": "1.0.5",
     "path-browserify": "0.0.0",
     "xml2js": "0.4.19",
     "has-value": "0.3.1",
